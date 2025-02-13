@@ -20,5 +20,10 @@ for (int i = 0; i < sizeof(numbers)/sieof(numbers[0]); i++) {
 return false;
 ```
 
+### Ever wondered a task list in GitHub looks like? Well, here you go!
+
+- [x] Add this task list
+- [ ] Prepare for the Game Jam next week
+- [ ] Find steel in Dave the Diver
 
 
